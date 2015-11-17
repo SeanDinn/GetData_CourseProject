@@ -1,0 +1,1 @@
+#This is the script that will run the programming assignment for Getttind and Cleaning Data class
